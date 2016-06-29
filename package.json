@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://tfs.big-social-media.com/tfs/BIGDev2015/common/_git/ssl-certificates"
+    "url": "https://github.com/rtezli/node-consul-cert-store.git"
   },
   "keywords": [
     "ssl"
